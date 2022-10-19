@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/react": "^17.0.34",
+    "expo-cli": "^4.12.11"
+  }
+}
